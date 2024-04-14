@@ -9,8 +9,7 @@
 
 
 #### Information:
-  - Researching vulnerabilities, reverse engineering, exploitation, etc.
-
+  - Researching vulnerabilities, reverse engineering, exploitation, penetration testing, etc.
 
 #### Technologies & Tools:
 <p align="left">
