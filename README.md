@@ -17,7 +17,7 @@
 #### Technologies & Tools:
 <p align="left">
 <code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="JavaScript"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/7e7e9d967c9e5606701cb4b0e80eec16e368a778/Papirus/64x64/apps/metasploit.svg" alt="metasploit"></code>
 <code><img height="30" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp.svg" alt="C++"></code>
 
 </p>
