@@ -16,7 +16,6 @@
 
 #### Technologies & Tools:
 <p align="left">
-<code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/7e7e9d967c9e5606701cb4b0e80eec16e368a778/Papirus/64x64/apps/metasploit.svg" alt="metasploit"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="RHL"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/vinceliuice/Fluent-icon-theme/972cffe50add5fa9474374b3b4d575244be63ff0/src/scalable/apps/distributor-logo-kali.svg" alt="Kali"></code>
