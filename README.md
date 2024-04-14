@@ -9,9 +9,7 @@
 
 
 #### Information:
-- Cybersecurity / Linux Systems Engineering
-  - Researching vulnerabilities, reverse engineering, programming, etc.
-
+  - Researching vulnerabilities, reverse engineering, exploitation, etc.
 
 
 #### Technologies & Tools:
