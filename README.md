@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dylanmguillot/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:piqle504@gmail.com)
 </div>
-#### Technologies & Tools:
+
 <p align="left">
 <code><img height="30" src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/7e7e9d967c9e5606701cb4b0e80eec16e368a778/Papirus/64x64/apps/metasploit.svg" alt="metasploit"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="RHL"></code>
